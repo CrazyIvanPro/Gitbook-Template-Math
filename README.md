@@ -2,4 +2,4 @@
 
 Template for Gitbook
 
-[Demo](https://crazyivanpro.github.io/Gitbook-Template-Math/)
+[Demo](http://crazyivanpro.github.io/Gitbook-Template-Math/)
