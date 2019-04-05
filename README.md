@@ -2,4 +2,4 @@
 
 Template for Gitbook
 
-[import](SUMMARY.md)
+[Demo](https://yifan-zhang.cn/Gitbook-Template-Math/)
